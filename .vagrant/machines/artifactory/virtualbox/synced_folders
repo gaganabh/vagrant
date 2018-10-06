@@ -1,0 +1,1 @@
+{"virtualbox":{"/fota":{"disabled":false,"guestpath":"/fota","hostpath":"/home/gagan","__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/gagan/vagrant","disabled":false,"__vagrantfile":true}}}
